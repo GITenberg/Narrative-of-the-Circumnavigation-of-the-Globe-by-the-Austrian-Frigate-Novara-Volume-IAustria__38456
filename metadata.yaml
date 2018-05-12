@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '39479'
     url: http://www.gutenberg.org/2009/agents/39479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38456#Narrative-of-the-Circumnavigation-of-the-Globe-by-the-Austrian-Frigate-Novara-Volume-IAustria_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-31'
 gutenberg_type: Text
